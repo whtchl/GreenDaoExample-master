@@ -1,3 +1,6 @@
+支持新加一张表--ok
+一张表中新加一个字段，原来的表中的数据不能导入到新表中--》需要改进
+
 # GreenDaoExample
 Android GreenDao使用总结（包括模型生成、增删改查、修改存储路径、数据库更新升级和加解密数据库）。
 <br>其中数据库更新升级参考了https://github.com/yuweiguocn/GreenDaoUpgradeHelper。<br>
